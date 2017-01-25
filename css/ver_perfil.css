@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body{
+	width: 100%;
+	font-family: arial;
+}
+
+.contenedor{
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.contenedor form{
+	
+	width: 100%;
+	max-width: 300px;
+	margin: auto;
+	background: #2ECC71;
+	border: 2px solid grey;
+	border-radius: 25px;
+	padding: 25px;
+	
+	color: white;
+
+}
+
+.contenedor form input{
+	width: 100%;
+	padding: 10px 0px;
+	margin: 15px 0px
+}
+
+#foto_perfil{
+	
+	border: 2px solid grey;
+	border-radius: 50%;
+	margin-left: 25%;
+	
+
+}

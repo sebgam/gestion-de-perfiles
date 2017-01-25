@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;  
+}
+
+body{
+    background: #f0f0f0;
+    width: 100%;
+    border-top: 50px solid #2ecc71;
+}
+
+.contenedor {
+	width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 15px;
+    background: #ffffff;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    display: inline-block;
+}
+
+header nav ul li a{
+    padding: 10px 50px;
+    text-decoration: none;
+    background: #2ecc71;
+    color: white;
+    text-transform: uppercase;
+    font-family: arial;
+    font-weight: bold;
+    border-bottom: 5px solid #34495e;
+}
+
+header nav ul li a:hover{
+    background:   #34495e;  
+}
+

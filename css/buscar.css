@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    width: 100%;
+    margin: auto;
+
+    
+}
+
+#formId, #formNom {
+	width: 100%;
+    max-width: 300px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 25px;
+    border: 2px solid grey;
+    background: #2ECC71;
+    color: white;
+    font-family: arial;
+    }
+
+#formId input, #formNom input{
+    padding: 5px 0px;
+    margin: 5px 0px;
+    width: 100%;
+}
+
+table{
+    margin-top: 25px;
+    width: 100%;
+    
+}
+
+table tr th,td {
+    border: #34495E solid 1px;
+}
+
+.eliminar{
+    border:none;
+}
